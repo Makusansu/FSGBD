@@ -2,14 +2,20 @@
 ## Repartition des rôles au sein du projet
 Brondino Thomas :
 * Rapport
+
+
 Camorani Alexis :
 * Code 
 * Rapport  :
    * Partie 1 : Identification du SGBD
    * Partie 1 : Gestion de la concurrence d’accès
    * Partie 3
+
+
 Ferriol Julien :
 * Rapport
+
+
 Lefeuvre Maxence 
 * Code 
 * Rapport 
