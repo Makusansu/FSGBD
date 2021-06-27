@@ -1,9 +1,26 @@
 # Projet de FSGBD
 ## Repartition des rôles au sein du projet
-Brondino Thomas --> Rapport
-Camorani Alexis --> Code + Rapport ( Partie 1 : Identification du SGBD, Gestion de la concurrence d’accès, Partie 3)
-Ferriol Julien -->  Rapport
-Lefeuvre Maxence --> Code + Rapport ( Partie 1 : Architecture fonctionnelles du SGBD, Le dictionnaire de données, Organisation physique du SGBD,	Gestion de la reprise sur panne(La journalisation, Les sauvegardes, Optimisation de requêtes, Partie 3)
+Brondino Thomas :
+* Rapport
+Camorani Alexis :
+* Code 
+* Rapport  :
+   * Partie 1 : Identification du SGBD
+   * Partie 1 : Gestion de la concurrence d’accès
+   * Partie 3
+Ferriol Julien :
+* Rapport
+Lefeuvre Maxence 
+* Code 
+* Rapport 
+   * Partie 1 : Architecture fonctionnelles du SGBD 
+   * Le dictionnaire de données
+   * Organisation physique du SGBD
+   * Gestion de la reprise sur panne
+      * La journalisation, 
+      * Les sauvegardes, 
+   * Optimisation de requêtes
+   * Partie 3
 
 ## Réalisations sur la partie du code
 Attention à utiliser la bonne version du JDK Java :
