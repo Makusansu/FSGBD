@@ -31,6 +31,7 @@ Lefeuvre Maxence
 ## Réalisations sur la partie du code
 Attention à utiliser la bonne version du JDK Java et de préférence IntelliJ :
 ![image](https://user-images.githubusercontent.com/28843048/123548642-ec3cac00-d765-11eb-92ae-9a59f55dd1d4.png)
+
 Vos pouvez télécharger directement le zip ou sinon bien prendre le fichier src et le csv (Modifier l'emplacement du fichier csv dans le code)
 * Nous avons réussis à exécuter le programme à partir d'un fichier csv
 * Création de la méthode de recherche par l'index
