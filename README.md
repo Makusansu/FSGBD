@@ -14,16 +14,16 @@ Lefeuvre Maxence
 * Code 
 * Rapport 
    * Partie 1 : Architecture fonctionnelles du SGBD 
-   * Le dictionnaire de données
-   * Organisation physique du SGBD
-   * Gestion de la reprise sur panne
-      * La journalisation, 
-      * Les sauvegardes, 
-   * Optimisation de requêtes
+   * Partie 1 : Le dictionnaire de données
+   * Partie 1 : Organisation physique du SGBD
+   * Partie 1 : Gestion de la reprise sur panne
+      * La journalisation
+      * Les sauvegardes 
+   * Partie 1 : Optimisation de requêtes
    * Partie 3
 
 ## Réalisations sur la partie du code
-Attention à utiliser la bonne version du JDK Java :
+Attention à utiliser la bonne version du JDK Java et de préférence IntelliJ :
 ![image](https://user-images.githubusercontent.com/28843048/123548642-ec3cac00-d765-11eb-92ae-9a59f55dd1d4.png)
 
 * Nous avons réussis à exécuter le programme à partir d'un fichier csv
